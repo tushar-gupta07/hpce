@@ -1,4 +1,4 @@
-<?php $base_url = "http://localhost/rkhospital/"; ?>
+<?php $base_url = "http://localhost/hpce/"; ?>
 <?php include 'include/config.php'; ?>
 <!DOCTYPE html>
 <html lang="en">

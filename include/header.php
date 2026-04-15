@@ -1,4 +1,4 @@
-<?php if (!isset($base_url)) { $base_url = "http://localhost/rkhospital/"; } ?>
+<?php if (!isset($base_url)) { $base_url = "http://localhost/hpce/"; } ?>
 
 <!-- ============================================
      MOBILE NAV WRAPPER

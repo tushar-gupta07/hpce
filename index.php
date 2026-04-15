@@ -1,4 +1,4 @@
-<?php $head_title = "Home One || onpoint || onpoint HTML 5 Template" ?>
+<?php $head_title = "Home || HPCI || Herbal Pest Control India" ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,7 +10,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="onpoint HTML 5 Template " />
+    <meta name="description" content="HPCI - Herbal Pest Control India | Safe, Eco-Friendly & Effective Herbal Pest Control Solutions" />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -84,13 +84,13 @@
                                             <div class="main-slider__sub-title-icon">
                                                 <img src="assets/images/icon/main-slider-sub-title-icon.png" alt="">
                                             </div>
-                                            <p class="main-slider__sub-title">Best shipping</p>
+                                            <p class="main-slider__sub-title">100% Natural & Safe</p>
                                         </div>
-                                        <h2 class="main-slider__title">Reliable <span>Responsive</span> <br> Driven Logistics</h2>
-                                        <p class="main-slider__text">We have been operating for over a decade, providing top-notch services to <br> our clients and building a strong track record in the industry.</p>
+                                        <h2 class="main-slider__title">India's Trusted <span>Herbal Pest</span> <br> Control Experts</h2>
+                                        <p class="main-slider__text">We have been protecting homes and businesses for over a decade using plant-based, <br> eco-friendly formulations that are safe for your family, pets, and the environment.</p>
                                         <div class="main-slider__btn-and-call-box">
                                             <div class="main-slider__btn-box">
-                                                <a href="about.php" class="thm-btn main-slider__btn">Read more<span></span></a>
+                                                <a href="about-us.php" class="thm-btn main-slider__btn">Discover More<span></span></a>
                                             </div>
                                             <div class="main-slider__call">
                                                 <div class="main-slider__call-icon">
@@ -123,13 +123,13 @@
                                             <div class="main-slider__sub-title-icon">
                                                 <img src="assets/images/icon/main-slider-sub-title-icon.png" alt="">
                                             </div>
-                                            <p class="main-slider__sub-title">Best shipping</p>
+                                            <p class="main-slider__sub-title">Zero Chemicals. Zero Harm.</p>
                                         </div>
-                                        <h2 class="main-slider__title">Reliable <span>Responsive</span> <br> Driven Logistics</h2>
-                                        <p class="main-slider__text">We have been operating for over a decade, providing top-notch services to <br> our clients and building a strong track record in the industry.</p>
+                                        <h2 class="main-slider__title">Eco-Friendly <span>Plant-Based</span> <br> Pest Solutions</h2>
+                                        <p class="main-slider__text">Our herbal formulations derived from neem, eucalyptus, and essential oils eliminate pests <br> effectively without toxic residues — safe for children, pets, and the soil.</p>
                                         <div class="main-slider__btn-and-call-box">
                                             <div class="main-slider__btn-box">
-                                                <a href="about.php" class="thm-btn main-slider__btn">Read more<span></span></a>
+                                                <a href="services.php" class="thm-btn main-slider__btn">Our Services<span></span></a>
                                             </div>
                                             <div class="main-slider__call">
                                                 <div class="main-slider__call-icon">
@@ -162,13 +162,13 @@
                                             <div class="main-slider__sub-title-icon">
                                                 <img src="assets/images/icon/main-slider-sub-title-icon.png" alt="">
                                             </div>
-                                            <p class="main-slider__sub-title">Best shipping</p>
+                                            <p class="main-slider__sub-title">Protecting Nature & Homes</p>
                                         </div>
-                                        <h2 class="main-slider__title">Reliable <span>Responsive</span> <br> Driven Logistics</h2>
-                                        <p class="main-slider__text">We have been operating for over a decade, providing top-notch services to <br> our clients and building a strong track record in the industry.</p>
+                                        <h2 class="main-slider__title">Complete Herbal <span>Pest Control</span> <br> Across India</h2>
+                                        <p class="main-slider__text">From termites to mosquitoes, cockroaches to rodents — HPCI provides comprehensive <br> herbal pest management solutions for residential, commercial, and agricultural needs.</p>
                                         <div class="main-slider__btn-and-call-box">
                                             <div class="main-slider__btn-box">
-                                                <a href="about.php" class="thm-btn main-slider__btn">Read more<span></span></a>
+                                                <a href="contact-us.php" class="thm-btn main-slider__btn">Get a Quote<span></span></a>
                                             </div>
                                             <div class="main-slider__call">
                                                 <div class="main-slider__call-icon">
@@ -199,9 +199,9 @@
             <div class="container">
                 <div class="section-title text-center">
                     <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">LATEST SERVICE</span>
+                        <span class="section-title__tagline">OUR HERBAL SERVICES</span>
                     </div>
-                    <h2 class="section-title__title">Your supply chain partner<br> for success</h2>
+                    <h2 class="section-title__title">Your natural pest protection partner<br> for a healthier India</h2>
                 </div>
                 <div class="row">
                     <!--Services One Single Start-->
@@ -210,9 +210,9 @@
                             <div class="services-one__icon">
                                 <span class="icon-postbox"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="express-freight-solutions.php">Fast and reliable logistics the solutions</a></h3>
+                            <h3 class="services-one__title"><a href="express-freight-solutions.php">Herbal Termite Control & Wood Protection Treatment</a></h3>
                             <div class="services-one__btn-box">
-                                <a href="express-freight-solutions.php" class="thm-btn services-one__btn">Read more<span></span></a>
+                                <a href="services.php" class="thm-btn services-one__btn">Read more<span></span></a>
                             </div>
                         </div>
                     </div>
@@ -223,9 +223,9 @@
                             <div class="services-one__icon">
                                 <span class="icon-customer-service"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="quick-move-logistics.php">Bridges Construction is an essen industry</a></h3>
+                            <h3 class="services-one__title"><a href="quick-move-logistics.php">Mosquito & Cockroach Herbal Eradication Services</a></h3>
                             <div class="services-one__btn-box">
-                                <a href="quick-move-logistics.php" class="thm-btn services-one__btn">Read more<span></span></a>
+                                <a href="services.php" class="thm-btn services-one__btn">Read more<span></span></a>
                             </div>
                         </div>
                     </div>
@@ -236,9 +236,9 @@
                             <div class="services-one__icon">
                                 <span class="icon-container"></span>
                             </div>
-                            <h3 class="services-one__title"><a href="speedy-dispatch.php">That involves building adesig the a structures</a></h3>
+                            <h3 class="services-one__title"><a href="speedy-dispatch.php">Rodent Control Using Plant-Based Repellent Formulas</a></h3>
                             <div class="services-one__btn-box">
-                                <a href="speedy-dispatch.php" class="thm-btn services-one__btn">Read more<span></span></a>
+                                <a href="services.php" class="thm-btn services-one__btn">Read more<span></span></a>
                             </div>
                         </div>
                     </div>
@@ -258,13 +258,13 @@
                         <div class="why-choose-one__left">
                             <div class="section-title text-left">
                                 <div class="section-title__tagline-box">
-                                    <span class="section-title__tagline">Why Chose us</span>
+                                    <span class="section-title__tagline">Why Choose HPCI</span>
                                 </div>
-                                <h2 class="section-title__title">Delivering excellence every a time Express Logistics</h2>
+                                <h2 class="section-title__title">Delivering safe, green pest control excellence every time with HPCI</h2>
                             </div>
-                            <p class="why-choose-one__text">Construction is an essential industry that involves building adesigning the an structures such as buildings roads, bridges Construction is an essent industry that involves building adesigning the a structures such </p>
+                            <p class="why-choose-one__text">HPCI — Herbal Pest Control India — is a pioneer in using 100% plant-based, non-toxic pest management solutions. Our certified herbal treatments leverage neem extracts, eucalyptus oil, pyrethrin, and other botanical actives to eliminate pest infestations without endangering human health, pets, or soil ecosystems. Trusted by thousands of households and businesses across India.</p>
                             <div class="why-choose-one__btn-box">
-                                <a href="about.php" class="thm-btn why-choose-one__btn">Read more<span></span></a>
+                                <a href="about-us.php" class="thm-btn why-choose-one__btn">Learn More<span></span></a>
                             </div>
                         </div>
                     </div>
@@ -276,7 +276,7 @@
                                     <div class="icon">
                                         <span class="icon-airplane"></span>
                                     </div>
-                                    <p>2 dAYS<br> DELIVARY</p>
+                                    <p>SAME DAY<br> SERVICE</p>
                                 </div>
                             </div>
                         </div>
@@ -293,9 +293,9 @@
             <div class="container">
                 <div class="section-title text-center">
                     <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Our projects</span>
+                        <span class="section-title__tagline">Our Projects</span>
                     </div>
-                    <h2 class="section-title__title">Let's discover all our <br>recent project</h2>
+                    <h2 class="section-title__title">Explore our successful herbal <br>pest control projects</h2>
                 </div>
                 <div class="row masonary-layout">
                     <!--Project One Single Start-->
@@ -306,8 +306,8 @@
                                     <img src="assets/images/project/project-1-1.jpg" alt="">
                                 </div>
                                 <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success through logistics</a></h3>
+                                    <p class="project-one__sub-title">Residential Treatment</p>
+                                    <h3 class="project-one__title"><a href="services.php">Herbal termite treatment for residential apartments</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -321,8 +321,8 @@
                                     <img src="assets/images/project/project-1-2.jpg" alt="">
                                 </div>
                                 <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success through logistics</a></h3>
+                                    <p class="project-one__sub-title">Commercial Pest Control</p>
+                                    <h3 class="project-one__title"><a href="services.php">Cockroach elimination in large restaurant complex</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -336,8 +336,8 @@
                                     <img src="assets/images/project/project-1-3.jpg" alt="">
                                 </div>
                                 <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success through logistics</a></h3>
+                                    <p class="project-one__sub-title">Agricultural Solutions</p>
+                                    <h3 class="project-one__title"><a href="services.php">Farm crop protection using neem-based herbal spray</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -351,8 +351,8 @@
                                     <img src="assets/images/project/project-1-4.jpg" alt="">
                                 </div>
                                 <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success through logistics</a></h3>
+                                    <p class="project-one__sub-title">Mosquito Control</p>
+                                    <h3 class="project-one__title"><a href="services.php">Herbal mosquito fogging in residential township</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -366,8 +366,8 @@
                                     <img src="assets/images/project/project-1-5.jpg" alt="">
                                 </div>
                                 <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success through logistics</a></h3>
+                                    <p class="project-one__sub-title">Hospital Sanitation</p>
+                                    <h3 class="project-one__title"><a href="services.php">Chemical-free pest management for healthcare facilities</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -381,8 +381,8 @@
                                     <img src="assets/images/project/project-1-6.jpg" alt="">
                                 </div>
                                 <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success through logistics</a></h3>
+                                    <p class="project-one__sub-title">School & Institutions</p>
+                                    <h3 class="project-one__title"><a href="services.php">Safe herbal pest control for schools and colleges</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -396,8 +396,8 @@
                                     <img src="assets/images/project/project-1-7.jpg" alt="">
                                 </div>
                                 <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success through logistics</a></h3>
+                                    <p class="project-one__sub-title">Warehouse Treatment</p>
+                                    <h3 class="project-one__title"><a href="services.php">Rodent & stored grain pest control for warehouses</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -411,8 +411,8 @@
                                     <img src="assets/images/project/project-1-8.jpg" alt="">
                                 </div>
                                 <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success through logistics</a></h3>
+                                    <p class="project-one__sub-title">Hotel & Hospitality</p>
+                                    <h3 class="project-one__title"><a href="services.php">Herbal bed bug & pest treatment for 5-star hotel chains</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -426,8 +426,8 @@
                                     <img src="assets/images/project/project-1-9.jpg" alt="">
                                 </div>
                                 <div class="project-one__content">
-                                    <p class="project-one__sub-title">Express Logistics</p>
-                                    <h3 class="project-one__title"><a href="project-details.php">Delivering success through logistics</a></h3>
+                                    <p class="project-one__sub-title">IT Parks & Offices</p>
+                                    <h3 class="project-one__title"><a href="services.php">Corporate office pest-free environment with herbal AMC</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -441,40 +441,7 @@
         <!-- ============================================
              SECTION 5: BRAND ONE
         ============================================ -->
-        <section class="brand-one">
-            <div class="container">
-                <p class="brand-one__text count-box">Join the <span class="count-text" data-stop="150" data-speed="1500">00</span><span>+</span> companies trusting maxline company</p>
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100,
-                "slidesPerView": 5,
-                "loop": true,
-                "navigation": {
-                    "nextEl": "#brand-one__swiper-button-next",
-                    "prevEl": "#brand-one__swiper-button-prev"
-                },
-                "autoplay": { "delay": 5000 },
-                "breakpoints": {
-                    "0": {"spaceBetween": 30,"slidesPerView": 1},
-                    "375": {"spaceBetween": 30,"slidesPerView": 1},
-                    "575": {"spaceBetween": 30,"slidesPerView": 2},
-                    "767": {"spaceBetween": 50,"slidesPerView": 3},
-                    "991": {"spaceBetween": 50,"slidesPerView": 4},
-                    "1199": {"spaceBetween": 100,"slidesPerView": 5}
-                }}'>
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide"><img src="assets/images/brand/brand-1-1.png" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/images/brand/brand-1-2.png" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/images/brand/brand-1-3.png" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/images/brand/brand-1-4.png" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/images/brand/brand-1-5.png" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/images/brand/brand-1-1.png" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/images/brand/brand-1-2.png" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/images/brand/brand-1-3.png" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/images/brand/brand-1-4.png" alt=""></div>
-                        <div class="swiper-slide"><img src="assets/images/brand/brand-1-5.png" alt=""></div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        
         <!-- /.brand-one -->
 
         <!-- ============================================
@@ -487,11 +454,11 @@
                         <div class="about-one__left">
                             <div class="section-title text-left">
                                 <div class="section-title__tagline-box">
-                                    <span class="section-title__tagline">About Us</span>
+                                    <span class="section-title__tagline">About HPCI</span>
                                 </div>
-                                <h2 class="section-title__title">Seamless logistics for your <br> business needs</h2>
+                                <h2 class="section-title__title">Herbal pest control solutions <br> for every Indian home</h2>
                             </div>
-                            <p class="about-one__text">Construction is an essential industry that involves building adesigning the a structures such as buildings roads, bridges</p>
+                            <p class="about-one__text">Herbal Pest Control India (HPCI) is a certified pest management company dedicated to providing eco-conscious, plant-based treatments. Our proprietary herbal formulas are derived from neem, citronella, clove, eucalyptus, and other botanical sources — proven to be safe for humans, pets, and the environment while being devastatingly effective against pests.</p>
                             <div class="about-one__list-box">
                                 <div class="about-one__shape-1">
                                     <img src="assets/images/shapes/about-one-shape-1.png" alt="">
@@ -501,24 +468,24 @@
                                         <div class="about-one__icon">
                                             <span class="icon-conveyor-1"></span>
                                         </div>
-                                        <h3>Delivering successthe <br> through logistics</h3>
+                                        <h3>ISO-certified herbal <br> pest control products</h3>
                                     </li>
                                     <li>
                                         <div class="about-one__icon">
                                             <span class="icon-clock"></span>
                                         </div>
-                                        <h3>Logistics expertise for your<br> competitive </h3>
+                                        <h3>Fast response with <br> same-day service</h3>
                                     </li>
                                     <li>
                                         <div class="about-one__icon">
                                             <span class="icon-fragile"></span>
                                         </div>
-                                        <h3>Streamliningm supply chain<br> processes</h3>
+                                        <h3>Zero toxic chemicals, <br> 100% natural ingredients</h3>
                                     </li>
                                 </ul>
                             </div>
                             <div class="about-one__btn-box">
-                                <a href="about.php" class="thm-btn about-one__btn">Read more<span></span></a>
+                                <a href="about-us.php" class="thm-btn about-one__btn">About Us<span></span></a>
                             </div>
                         </div>
                     </div>
@@ -541,7 +508,7 @@
                                             <span>k</span>
                                             <span class="about-one__trust-plus">+</span>
                                         </div>
-                                        <p class="about-one__trust-text">Trusted Customer</p>
+                                        <p class="about-one__trust-text">Happy Customers</p>
                                     </div>
                                 </div>
                             </div>
@@ -577,11 +544,11 @@
                         <div class="counter-one__right wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="section-title text-left">
                                 <div class="section-title__tagline-box">
-                                    <span class="section-title__tagline">Our Features</span>
+                                    <span class="section-title__tagline">Why HPCI Stands Out</span>
                                 </div>
-                                <h2 class="section-title__title">Simplifying your logistics of <br>the challenges</h2>
+                                <h2 class="section-title__title">Simplifying herbal pest <br>control for every Indian home</h2>
                             </div>
-                            <p class="counter-one__right-text">Logistic service involves the planning, implementation, and control of the efficient and effective movement and storage of goods and materials.</p>
+                            <p class="counter-one__right-text">HPCI's herbal pest control services combine traditional Ayurvedic wisdom with modern application techniques — delivering long-lasting protection that is safe for children, senior citizens, pets, and the environment. Our trained technicians use only certified botanical formulations to ensure zero side effects.</p>
                             <ul class="counter-one__count-list list-unstyled">
                                 <li>
                                     <div class="counter-one__icon-and-count">
@@ -591,7 +558,7 @@
                                             <span>+</span>
                                         </div>
                                     </div>
-                                    <p class="counter-one__count-text">Our Happy Customer</p>
+                                    <p class="counter-one__count-text">Cities Served Across India</p>
                                 </li>
                                 <li>
                                     <div class="counter-one__icon-and-count">
@@ -602,7 +569,7 @@
                                             <span class="counter-one__count-plus">+</span>
                                         </div>
                                     </div>
-                                    <p class="counter-one__count-text">Our Team Member</p>
+                                    <p class="counter-one__count-text">Certified Herbal Technicians</p>
                                 </li>
                                 <li>
                                     <div class="counter-one__icon-and-count">
@@ -613,7 +580,7 @@
                                             <span class="counter-one__count-plus">+</span>
                                         </div>
                                     </div>
-                                    <p class="counter-one__count-text">Our Clients Reviews</p>
+                                    <p class="counter-one__count-text">5-Star Customer Reviews</p>
                                 </li>
                             </ul>
                         </div>
@@ -631,9 +598,9 @@
                 <div class="team-one__top">
                     <div class="section-title text-left">
                         <div class="section-title__tagline-box">
-                            <span class="section-title__tagline">Our Team</span>
+                            <span class="section-title__tagline">Our Expert Team</span>
                         </div>
-                        <h2 class="section-title__title">Simplifying your logistics of <br>the challenges</h2>
+                        <h2 class="section-title__title">Meet our certified herbal pest <br>control specialists</h2>
                     </div>
                     <div class="team-one__nav">
                         <div class="swiper-button-next1"><i class="icon-arrow-left"></i></div>
@@ -674,8 +641,8 @@
                                         <img src="assets/images/team/team-1-1.jpg" alt="">
                                     </div>
                                     <div class="team-one__content">
-                                        <h3 class="team-one__title"><a href="team-details.php">Brooklyn Simmons</a></h3>
-                                        <p class="team-one__sub-title">Quick Cargo</p>
+                                        <h3 class="team-one__title"><a href="team-details.php">Dr. Rajesh Sharma</a></h3>
+                                        <p class="team-one__sub-title">Chief Herbal Formulations Expert</p>
                                         <div class="team-one__social">
                                             <a href="#"><span class="icon-instagram"></span></a>
                                             <a href="#"><span class="icon-linkedin-in"></span></a>
@@ -693,8 +660,8 @@
                                         <img src="assets/images/team/team-1-2.jpg" alt="">
                                     </div>
                                     <div class="team-one__content">
-                                        <h3 class="team-one__title"><a href="team-details.php">Sakib Hasan</a></h3>
-                                        <p class="team-one__sub-title">Speedy Trans</p>
+                                        <h3 class="team-one__title"><a href="team-details.php">Priya Nambiar</a></h3>
+                                        <p class="team-one__sub-title">Senior Pest Control Technician</p>
                                         <div class="team-one__social">
                                             <a href="#"><span class="icon-instagram"></span></a>
                                             <a href="#"><span class="icon-linkedin-in"></span></a>
@@ -712,8 +679,8 @@
                                         <img src="assets/images/team/team-1-3.jpg" alt="">
                                     </div>
                                     <div class="team-one__content">
-                                        <h3 class="team-one__title"><a href="team-details.php">Fahda Hossain</a></h3>
-                                        <p class="team-one__sub-title">Efficient Transport</p>
+                                        <h3 class="team-one__title"><a href="team-details.php">Arjun Mehta</a></h3>
+                                        <p class="team-one__sub-title">Agricultural Pest Management Lead</p>
                                         <div class="team-one__social">
                                             <a href="#"><span class="icon-instagram"></span></a>
                                             <a href="#"><span class="icon-linkedin-in"></span></a>
@@ -748,9 +715,9 @@
                         <div class="why-are-we__right">
                             <div class="section-title text-left">
                                 <div class="section-title__tagline-box">
-                                    <span class="section-title__tagline">Why are we best</span>
+                                    <span class="section-title__tagline">Why HPCI is the Best</span>
                                 </div>
-                                <h2 class="section-title__title">Efficiency at its best with our<br> logistics services</h2>
+                                <h2 class="section-title__title">Green efficiency at its finest with our <br> herbal pest control services</h2>
                             </div>
                             <ul class="why-are-we__list list-unstyled">
                                 <li>
@@ -761,8 +728,8 @@
                                         <span class="icon-location why-are-we__location"></span>
                                     </div>
                                     <div class="content">
-                                        <h3>Real Time tracking</h3>
-                                        <p>Logistic service involves the ntation and control </p>
+                                        <h3>Real-Time Service Tracking</h3>
+                                        <p>Track your HPCI technician and treatment status live via our mobile app</p>
                                     </div>
                                 </li>
                                 <li>
@@ -773,8 +740,8 @@
                                         <span class="icon-shopping-cart why-are-we__cart"></span>
                                     </div>
                                     <div class="content">
-                                        <h3>On time delivary</h3>
-                                        <p>Logistic service involves the ntation and control </p>
+                                        <h3>Guaranteed Results on Time</h3>
+                                        <p>Our herbal treatments deliver visible pest elimination results within 48 hours</p>
                                     </div>
                                 </li>
                                 <li>
@@ -782,16 +749,16 @@
                                         <span class="icon-call why-are-we__call"></span>
                                     </div>
                                     <div class="content">
-                                        <h3>24/7 online support</h3>
-                                        <p>Logistic service involves the ntation and control </p>
+                                        <h3>24/7 Customer Support</h3>
+                                        <p>Our pest experts are available round the clock for advice, bookings, and follow-ups</p>
                                     </div>
                                 </li>
                             </ul>
                             <div class="why-are-we__img-2">
                                 <img src="assets/images/resources/why-are-we-img-2.jpg" alt="">
                                 <div class="why-are-we__year wow fadeInLeft" data-wow-delay="300ms">
-                                    <h3>Since 1920</h3>
-                                    <p>Logistic service involves the planning, implementation, and control of the efficient and effective movement and storage</p>
+                                    <h3>Est. Since 2005</h3>
+                                    <p>HPCI has been India's most trusted herbal pest control company for nearly two decades, pioneering eco-safe treatments across residential, commercial, and agricultural sectors.</p>
                                 </div>
                             </div>
                         </div>
@@ -814,36 +781,36 @@
                                 <div class="section-title__tagline-box">
                                     <span class="section-title__tagline">FAQ</span>
                                 </div>
-                                <h2 class="section-title__title">Do You Have Any <br> Question Please?</h2>
+                                <h2 class="section-title__title">Do You Have Any <br> Questions About Herbal Pest Control?</h2>
                             </div>
                             <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
                                 <div class="accrodion active">
                                     <div class="accrodion-title">
-                                        <h4>How can I track my shipment?</h4>
+                                        <h4>Are your herbal pest control treatments safe for children and pets?</h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
-                                            <p>It is a long established fact that a reader will be distr acted bioiiy the real ism dablea content of a page when looking at its layout </p>
+                                            <p>Yes—HPCI herbal treatments use 100% natural ingredients like neem, eucalyptus, and citronella, making them safe and non-toxic with no harmful residues.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <h4>What is the average delivery time?</h4>
+                                        <h4>How long does a herbal pest control treatment last?</h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
-                                            <p>It is a long established fact that a reader will be distr acted bioiiy the real ism dablea content of a page when looking at its layout </p>
+                                            <p>Effectiveness lasts 3–6 months depending on infestation, with AMC plans available for year-round protection at discounted rates.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accrodion">
                                     <div class="accrodion-title">
-                                        <h4>Do you offer Smooth Running Supply?</h4>
+                                        <h4>Do you offer herbal pest control for farms and agricultural land?</h4>
                                     </div>
                                     <div class="accrodion-content">
                                         <div class="inner">
-                                            <p>It is a long established fact that a reader will be distr acted bioiiy the real ism dablea content of a page when looking at its layout </p>
+                                            <p>Yes—HPCI offers herbal, crop-safe pest control for farms and plantations, protecting yields while preserving soil health and beneficial insects.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -852,47 +819,47 @@
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="faq-one__right wow fadeInRight" data-wow-delay="300ms">
-                            <h3 class="faq-one__from-title">Our One-Stop Car Repair Shop</h3>
+                            <h3 class="faq-one__from-title">Book a Free Herbal Pest Inspection</h3>
                             <form class="contact-form-validated faq-one__form" action="assets/inc/sendemail.php" method="post" novalidate="novalidate">
                                 <div class="row">
                                     <div class="col-xl-6 col-lg-6">
                                         <div class="faq-one__input-box">
-                                            <input type="text" name="name" placeholder="Your Name" required="">
+                                            <input type="text" name="name" placeholder="Your Full Name" required="">
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6">
                                         <div class="faq-one__input-box">
-                                            <input type="email" name="email" placeholder="Your Email" required="">
+                                            <input type="email" name="email" placeholder="Your Email Address" required="">
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6">
                                         <div class="faq-one__input-box">
-                                            <input type="text" name="text" placeholder="Phone Number" required="">
+                                            <input type="text" name="text" placeholder="Mobile Number" required="">
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6">
                                         <div class="faq-one__input-box">
                                             <div class="select-box">
                                                 <select class="selectmenu wide">
-                                                    <option selected="selected">Choose a Option</option>
-                                                    <option>Type Of Service 01</option>
-                                                    <option>Type Of Service 02</option>
-                                                    <option>Type Of Service 03</option>
-                                                    <option>Type Of Service 04</option>
-                                                    <option>Type Of Service 05</option>
-                                                    <option>Type Of Service 06</option>
+                                                    <option selected="selected">Select Pest Type</option>
+                                                    <option>Termite Control</option>
+                                                    <option>Mosquito Control</option>
+                                                    <option>Cockroach Treatment</option>
+                                                    <option>Rodent Control</option>
+                                                    <option>Bed Bug Treatment</option>
+                                                    <option>Agricultural Pest Control</option>
                                                 </select>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-xl-12">
                                         <div class="faq-one__input-box text-message-box">
-                                            <textarea name="message" placeholder="Message here.."></textarea>
+                                            <textarea name="message" placeholder="Describe your pest problem or any specific requirement.."></textarea>
                                         </div>
                                     </div>
                                     <div class="col-xl-12">
                                         <div class="faq-one__btn-box">
-                                            <button type="submit" class="thm-btn faq-one__btn">Submit Now<span></span></button>
+                                            <button type="submit" class="thm-btn faq-one__btn">Book Free Inspection<span></span></button>
                                         </div>
                                     </div>
                                 </div>
@@ -916,9 +883,9 @@
                     </div>
                     <div class="section-title text-center">
                         <div class="section-title__tagline-box">
-                            <span class="section-title__tagline">clients testimonial</span>
+                            <span class="section-title__tagline">Customer Testimonials</span>
                         </div>
-                        <h2 class="section-title__title">Your supply chain partner<br> for success</h2>
+                        <h2 class="section-title__title">Trusted by thousands of <br> Indian homes & businesses</h2>
                     </div>
                     <div class="row">
                         <div class="col-xl-5"></div>
@@ -964,9 +931,9 @@
                                                     <span class="icon-star"></span>
                                                     <span class="icon-star last-star"></span>
                                                 </div>
-                                                <h3 class="testimonial-one__client-name">Nafiz Bhuiyan</h3>
-                                                <p class="testimonial-one__client-sub-title">Manegar</p>
-                                                <p class="testimonial-one__text">Logistic service involves the planning implementation an and control of the efficient and effective movement and storage of goods and materials Logistic service involves the planning implementation and control</p>
+                                                <h3 class="testimonial-one__client-name">Sunita Agarwal</h3>
+                                                <p class="testimonial-one__client-sub-title">Homeowner, Pune</p>
+                                                <p class="testimonial-one__text">We had a severe termite problem at home and were worried about using chemical treatments due to our young children. HPCI's herbal termite control service was a revelation — completely safe, no smell, and the termites haven't returned in over a year. Highly recommend!</p>
                                             </div>
                                         </div>
                                         <!--Testimonial One Single End-->
@@ -984,9 +951,9 @@
                                                     <span class="icon-star"></span>
                                                     <span class="icon-star last-star"></span>
                                                 </div>
-                                                <h3 class="testimonial-one__client-name">Robert Son</h3>
-                                                <p class="testimonial-one__client-sub-title">Manegar</p>
-                                                <p class="testimonial-one__text">Logistic service involves the planning implementation an and control of the efficient and effective movement and storage of goods and materials Logistic service involves the planning implementation and control</p>
+                                                <h3 class="testimonial-one__client-name">Vikram Shetty</h3>
+                                                <p class="testimonial-one__client-sub-title">Restaurant Owner, Bangalore</p>
+                                                <p class="testimonial-one__text">HPCI has been managing pest control for our restaurant chain for three years. Their herbal cockroach and rodent treatments are food-safe and FSSAI-compliant. No toxic residues in our kitchen, and our hygiene audit scores have improved dramatically. Best decision we made.</p>
                                             </div>
                                         </div>
                                         <!--Testimonial One Single End-->
@@ -1004,9 +971,9 @@
                                                     <span class="icon-star"></span>
                                                     <span class="icon-star last-star"></span>
                                                 </div>
-                                                <h3 class="testimonial-one__client-name">Harbert Spin</h3>
-                                                <p class="testimonial-one__client-sub-title">Manegar</p>
-                                                <p class="testimonial-one__text">Logistic service involves the planning implementation an and control of the efficient and effective movement and storage of goods and materials Logistic service involves the planning implementation and control</p>
+                                                <h3 class="testimonial-one__client-name">Mohan Lal Gupta</h3>
+                                                <p class="testimonial-one__client-sub-title">Farmer, Nashik</p>
+                                                <p class="testimonial-one__text">I switched to HPCI's organic pest control for my grape vineyard and the results have been outstanding. Pest infestation dropped by 80% while my soil quality and yield improved. Their team is knowledgeable, punctual, and genuinely cares about sustainable farming.</p>
                                             </div>
                                         </div>
                                         <!--Testimonial One Single End-->
@@ -1024,9 +991,9 @@
                                                     <span class="icon-star"></span>
                                                     <span class="icon-star last-star"></span>
                                                 </div>
-                                                <h3 class="testimonial-one__client-name">Mainto Vula</h3>
-                                                <p class="testimonial-one__client-sub-title">Manegar</p>
-                                                <p class="testimonial-one__text">Logistic service involves the planning implementation an and control of the efficient and effective movement and storage of goods and materials Logistic service involves the planning implementation and control</p>
+                                                <h3 class="testimonial-one__client-name">Kavitha Rajan</h3>
+                                                <p class="testimonial-one__client-sub-title">School Principal, Chennai</p>
+                                                <p class="testimonial-one__text">HPCI provides herbal pest control for our school premises every month. The fact that it uses only plant-based products gives us complete peace of mind when children are around. The service is professional, thorough, and always on schedule. Our school has been pest-free for 2 years.</p>
                                             </div>
                                         </div>
                                         <!--Testimonial One Single End-->
@@ -1050,9 +1017,9 @@
             <div class="container">
                 <div class="section-title text-center">
                     <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">Latests Blog</span>
+                        <span class="section-title__tagline">Latest Blog</span>
                     </div>
-                    <h2 class="section-title__title">Streamlining your supply<br> chain processes</h2>
+                    <h2 class="section-title__title">Herbal pest control tips &<br> green living insights</h2>
                 </div>
                 <div class="row">
                     <!--Blog One Single Start-->
@@ -1062,13 +1029,13 @@
                                 <div class="blog-one__img">
                                     <img src="assets/images/blog/blog-1-1.jpg" alt="">
                                 </div>
-                                <div class="blog-one__date"><p>24 March</p></div>
+                                <div class="blog-one__date"><p>12 January</p></div>
                             </div>
                             <div class="blog-one__content">
-                                <h3 class="blog-one__title"><a href="blog-details.php">Your trusted logistics provider Express Logistics</a></h3>
-                                <p class="blog-one__text">It is a long established fact that a reader will williljl be distracted </p>
+                                <h3 class="blog-one__title"><a href="blog-details.php">Top 5 Highly Effective Herbal Ingredients that Repel Termites Naturally</a></h3>
+                                <p class="blog-one__text">Discover the powerful plant-based actives — neem, clove, and orange peel — that HPCI uses to fight termites without toxic chemicals.</p>
                                 <div class="blog-one__read-more">
-                                    <a href="blog-details.php">Read More<span class="icon-arrow-right"></span></a>
+                                    <a href="blogs.php">Read More<span class="icon-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -1081,13 +1048,13 @@
                                 <div class="blog-one__img">
                                     <img src="assets/images/blog/blog-1-2.jpg" alt="">
                                 </div>
-                                <div class="blog-one__date"><p>24 March</p></div>
+                                <div class="blog-one__date"><p>18 February</p></div>
                             </div>
                             <div class="blog-one__content">
-                                <h3 class="blog-one__title"><a href="blog-details.php">Logistics expertise for your the competitive advantage</a></h3>
-                                <p class="blog-one__text">It is a long established fact that a reader will williljl be distracted </p>
+                                <h3 class="blog-one__title"><a href="blog-details.php">Why herbal pest control is the future of sustainable living in India</a></h3>
+                                <p class="blog-one__text">With rising awareness of chemical hazards, more Indian families are turning to eco-friendly herbal pest control as the safer choice for homes.</p>
                                 <div class="blog-one__read-more">
-                                    <a href="blog-details.php">Read More<span class="icon-arrow-right"></span></a>
+                                    <a href="blogs.php">Read More<span class="icon-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -1100,13 +1067,13 @@
                                 <div class="blog-one__img">
                                     <img src="assets/images/blog/blog-1-3.jpg" alt="">
                                 </div>
-                                <div class="blog-one__date"><p>24 March</p></div>
+                                <div class="blog-one__date"><p>05 March</p></div>
                             </div>
                             <div class="blog-one__content">
-                                <h3 class="blog-one__title"><a href="blog-details.php">Streamlining your supply chain processes Express </a></h3>
-                                <p class="blog-one__text">It is a long established fact that a reader will williljl be distracted </p>
+                                <h3 class="blog-one__title"><a href="blog-details.php">How HPCI's neem-based spray protects crops without harming bees</a></h3>
+                                <p class="blog-one__text">Explore how our agriculture-grade herbal pest solutions increase crop yield while preserving pollinators and soil biodiversity on Indian farms.</p>
                                 <div class="blog-one__read-more">
-                                    <a href="blog-details.php">Read More<span class="icon-arrow-right"></span></a>
+                                    <a href="blogs.php">Read More<span class="icon-arrow-right"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -1131,11 +1098,11 @@
                                 <img src="assets/images/shapes/cta-one-shape-1.png" alt="">
                             </div>
                         </div>
-                        <h3 class="cta-one__title">Need any help? <br> contact us!</h3>
+                        <h3 class="cta-one__title">Need herbal pest control? <br> Contact HPCI today!</h3>
                         <div class="cta-one__contact-box">
                             <div class="icon"><span class="icon-phone"></span></div>
                             <div class="content">
-                                <p>Need help?</p>
+                                <p>Call us anytime</p>
                                 <h3><a href="tel:3075550133">(307) 555-0133</a></h3>
                             </div>
                         </div>

@@ -1,4 +1,6 @@
-<?php if (!isset($base_url)) { $base_url = "http://localhost/hpce/"; } ?>
+<?php if (!isset($base_url)) {
+    $base_url = "http://localhost/hpce/";
+} ?>
 
 <!-- ============================================
      MOBILE NAV WRAPPER
@@ -136,11 +138,11 @@
                             <div class="main-menu__main-menu-box">
                                 <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                 <ul class="main-menu__list">
-                                    <li><a href="<?php echo $base_url; ?>">Home</a></li>
-                                    <li><a href="<?php echo $base_url; ?>about-us">About</a></li>
-                                    <li><a href="<?php echo $base_url; ?>services">Services</a></li>
-                                    <li><a href="<?php echo $base_url; ?>blogs">Blogs</a></li>
-                                    <li><a href="<?php echo $base_url; ?>contact-us">Contact Us</a></li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="about-us.php">About</a></li>
+                                    <li><a href="services.php">Services</a></li>
+                                    <li><a href="blogs.php">Blogs</a></li>
+                                    <li><a href="contact-us.php">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -157,7 +159,7 @@
                                     </a>
                                 </div>
                                 <div class="main-menu__btn-box">
-                                    <a href="<?php echo $base_url; ?>contact-us" class="thm-btn main-menu__btn">Get A Free Quote<span></span></a>
+                                    <a href="contact-us.php" class="thm-btn main-menu__btn">Get A Free Quote<span></span></a>
                                 </div>
                             </div>
                         </div>

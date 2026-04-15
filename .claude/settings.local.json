@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mysql -u root rkhospital -e \"SHOW TABLES;\")",
+      "Bash(cd:*)",
+      "Bash(/c/xampp/htdocs/rkhospital/admin/.htaccess:*)",
+      "Bash(ls C:/xampp/htdocs/rkhospital/*.html)",
+      "Bash(rm -f *.html)",
+      "Bash(ls *.html)",
+      "Bash(mysql:*)",
+      "Read(//c/xampp/**)",
+      "Bash(./mysql/bin/mysql.exe -u root rkhospital -e \"DESCRIBE doctors;\")"
+    ]
+  }
+}

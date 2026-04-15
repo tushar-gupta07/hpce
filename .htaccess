@@ -1,0 +1,27 @@
+Options -Indexes
+RewriteEngine On
+RewriteBase /rkhospital/
+
+# 1. DOCTOR CLEAN URL  (/doctors/slug)
+RewriteRule ^doctors/([a-zA-Z0-9_-]+)$ single-doctor.php?slug=$1 [L,QSA]
+
+# 2. BLOG POST CLEAN URL  (/blog/slug)
+RewriteRule ^blog/([a-zA-Z0-9_-]+)$ blog-details.php?slug=$1 [L,QSA]
+
+# 3. BLOG CATEGORY & TAGS CLEAN URL  (/blogs/gynecology or /blogs/Surgery)
+# Changed regex to ([^/]+) and added [B] flag to handle URL-encoded spaces
+RewriteRule ^blogs/([^/]+)/?$ blogs.php?category=$1 [B,L,QSA]
+
+# 4. SERVICE CLEAN URL  (/service/slug)
+RewriteRule ^service/([a-zA-Z0-9_-]+)$ single-service.php?slug=$1 [L,QSA]
+
+# 5. SERVICES CATEGORY CLEAN URL (/services/category/id)
+RewriteRule ^services/category/([^/]+)/?$ services.php?category=$1 [B,L,QSA]
+
+# 6. SERVICES KEYWORD SEARCH CLEAN URL (/services/search/keyword)
+RewriteRule ^services/search/([^/]+)/?$ services.php?search=$1 [B,L,QSA]
+
+# 7. REMOVE .php FROM URL (INTERNAL)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^/]+)$ $1.php [L]

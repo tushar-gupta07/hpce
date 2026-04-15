@@ -41,9 +41,9 @@
                             </div>
                             <ul class="footer-widget__company-list list-unstyled">
                                 <li><a href="<?php echo $base_url; ?>">Home</a></li>
-                                <li><a href="<?php echo $base_url; ?>about-us">About Us</a></li>
-                                <li><a href="<?php echo $base_url; ?>services">Services</a></li>
-                                <li><a href="<?php echo $base_url; ?>blogs">Blogs</a></li>
+                                <li><a href="<?php echo $base_url; ?>about-us.php">About Us</a></li>
+                                <li><a href="<?php echo $base_url; ?>services.php">Services</a></li>
+                                <li><a href="<?php echo $base_url; ?>blogs.php">Blogs</a></li>
                             </ul>
                         </div>
                     </div>
@@ -55,10 +55,10 @@
                                 <h3 class="footer-widget__title">Help Center</h3>
                             </div>
                             <ul class="footer-widget__services-list list-unstyled">
-                                <li><a href="<?php echo $base_url; ?>contact-us"><span class="icon-angle-left"></span>Contact Us</a></li>
-                                <li><a href="<?php echo $base_url; ?>privacy-policy"><span class="icon-angle-left"></span>Privacy Policy</a></li>
-                                <li><a href="<?php echo $base_url; ?>cancellation-policy"><span class="icon-angle-left"></span>Cancellation Policy</a></li>
-                                <li><a href="<?php echo $base_url; ?>terms-conditions"><span class="icon-angle-left"></span>Terms & Conditions</a></li>
+                                <li><a href="<?php echo $base_url; ?>contact-us.php"><span class="icon-angle-left"></span>Contact Us</a></li>
+                                <li><a href="<?php echo $base_url; ?>privacy-policy.php"><span class="icon-angle-left"></span>Privacy Policy</a></li>
+                                <li><a href="<?php echo $base_url; ?>cancellation-policy.php"><span class="icon-angle-left"></span>Cancellation Policy</a></li>
+                                <li><a href="<?php echo $base_url; ?>terms-conditions.php"><span class="icon-angle-left"></span>Terms & Conditions</a></li>
                             </ul>
                         </div>
                     </div>
@@ -68,7 +68,7 @@
                         <div class="footer-widget__column footer-widget__newsletter">
                             <div class="footer-widget__title-box">
                                 <h3 class="footer-widget__title">Newsletter</h3>
-                            </div>
+                            </div> 
                             <p class="footer-widget__newsletter-text">Financial planners help people to gain knowledge aboutw</p>
                             <form class="footer-widget__newsletter-form mc-form" data-url="MC_FORM_URL" novalidate="novalidate">
                                 <div class="footer-widget__newsletter-form-input-box">

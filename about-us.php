@@ -1,4 +1,4 @@
-<?php $head_title = "Home One || onpoint || onpoint HTML 5 Template" ?>
+<?php $head_title = "About Us || Herbal Pest Control India || Natural & Eco-Friendly Pest Solutions" ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,7 +10,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="onpoint HTML 5 Template " />
+    <meta name="description" content="Herbal Pest Control India – India's leading provider of 100% natural, eco-friendly, and herbal pest control solutions for homes, farms, and businesses." />
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -57,457 +57,436 @@
              HEADER
         ============================================ -->
 
-
-           <!--Page Header Start-->
-    <section class="page-header">
-        <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
-        </div>
-        <div class="container">
-            <div class="page-header__inner">
-                <h2>About US</h2>
-                <div class="thm-breadcrumb__box">
-                    <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.php">Home</a></li>
-                        <li><span class="icon-angle-left"></span></li>
-                        <li>About US</li>
-                    </ul>
+        <!--Page Header Start-->
+        <section class="page-header">
+            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg);">
+            </div>
+            <div class="container">
+                <div class="page-header__inner">
+                    <h2>About Us</h2>
+                    <div class="thm-breadcrumb__box">
+                        <ul class="thm-breadcrumb list-unstyled">
+                            <li><a href="index.php">Home</a></li>
+                            <li><span class="icon-angle-left"></span></li>
+                            <li>About Us</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!--Page Header End-->
+        </section>
+        <!--Page Header End-->
 
-    <!--About One Start-->
-    <section class="about-one about-two">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6">
-                    <div class="about-one__left">
-                        <div class="section-title text-left">
-                            <div class="section-title__tagline-box">
-                                <span class="section-title__tagline">About Us</span>
+        <!--About One Start-->
+        <section class="about-one about-two">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6">
+                        <div class="about-one__left">
+                            <div class="section-title text-left">
+                                <div class="section-title__tagline-box">
+                                    <span class="section-title__tagline">About Us</span>
+                                </div>
+                                <h2 class="section-title__title">Nature's Power for a <br> Pest-Free India</h2>
                             </div>
-                            <h2 class="section-title__title">Seamless logistics for your <br> business needs</h2>
+                            <p class="about-one__text">Herbal Pest Control India (HPCI) is a pioneer in eco-friendly pest management, harnessing the power of natural herbs, plant extracts, and botanical formulations to eliminate pests — without toxic chemicals, without harming your family, pets, or the environment.</p>
+                            <div class="about-one__list-box">
+                                <div class="about-one__shape-1">
+                                    <img src="assets/images/shapes/about-one-shape-1.png" alt="">
+                                </div>
+                                <ul class="about-one__list list-unstyled">
+                                    <li>
+                                        <div class="about-one__icon">
+                                            <span class="icon-conveyor-1"></span>
+                                        </div>
+                                        <h3>100% Natural & Herbal <br> Pest Formulations</h3>
+                                    </li>
+                                    <li>
+                                        <div class="about-one__icon">
+                                            <span class="icon-clock"></span>
+                                        </div>
+                                        <h3>Safe for Children, Pets <br> & the Environment</h3>
+                                    </li>
+                                    <li>
+                                        <div class="about-one__icon">
+                                            <span class="icon-fragile"></span>
+                                        </div>
+                                        <h3>Certified Organic Treatments <br> Across India</h3>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="about-one__btn-box">
+                                <a href="services.php" class="thm-btn about-one__btn">Read More<span></span></a>
+                            </div>
                         </div>
-                        <p class="about-one__text">Construction is an essential industry that involves building
-                            adesigning the a structures such as buildings roads, bridges</p>
-                        <div class="about-one__list-box">
-                            <div class="about-one__shape-1">
-                                <img src="assets/images/shapes/about-one-shape-1.png" alt="">
+                    </div>
+                    <div class="col-xl-6">
+                        <div class="about-one__right wow fadeInRight" data-wow-delay="300ms">
+                            <div class="about-one__img-box">
+                                <div class="about-one__img-1">
+                                    <img src="assets/images/resources/about-one-img-1.jpg" alt="Herbal Pest Control Treatment">
+                                </div>
+                                <div class="about-one__img-2">
+                                    <img src="assets/images/resources/about-one-img-2.jpg" alt="Natural Herbal Ingredients">
+                                </div>
+                                <div class="about-one__trusted-box">
+                                    <div class="about-one__trust-icon">
+                                        <span class="icon-ionic-ios-people"></span>
+                                    </div>
+                                    <div class="about-one__trust-content">
+                                        <div class="about-one__trust-count count-box">
+                                            <h3 class="count-text" data-stop="10" data-speed="1500">00</h3>
+                                            <span>k</span>
+                                            <span class="about-one__trust-plus">+</span>
+                                        </div>
+                                        <p class="about-one__trust-text">Trusted Customers</p>
+                                    </div>
+                                </div>
                             </div>
-                            <ul class="about-one__list list-unstyled">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--About One End-->
+
+        <!--Counter One Start-->
+        <section class="counter-one">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-5">
+                        <div class="counter-one__left wow slideInLeft" data-wow-delay="100ms"
+                            data-wow-duration="2500ms">
+                            <div class="counter-one__img">
+                                <img src="assets/images/resources/counter-one-img-1.jpg" alt="HPCI Herbal Pest Control Team at Work">
+                                <div class="counter-one__video-link">
+                                    <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                                        <div class="counter-one__video-icon">
+                                            <span class="icon-play"></span>
+                                            <i class="ripple"></i>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-7">
+                        <div class="counter-one__right wow slideInRight" data-wow-delay="100ms"
+                            data-wow-duration="2500ms">
+                            <div class="section-title text-left">
+                                <div class="section-title__tagline-box">
+                                    <span class="section-title__tagline">Our Strengths</span>
+                                </div>
+                                <h2 class="section-title__title">Why India Chooses Herbal <br> Pest Control</h2>
+                            </div>
+                            <p class="counter-one__right-text">At Herbal Pest Control India, we combine centuries-old Ayurvedic wisdom with modern pest management techniques. Our botanical-based treatments are scientifically tested, government approved, and proven effective against termites, cockroaches, mosquitoes, rodents, and more — all without a single drop of harmful chemical.</p>
+                            <ul class="counter-one__count-list list-unstyled">
                                 <li>
-                                    <div class="about-one__icon">
-                                        <span class="icon-conveyor-1"></span>
+                                    <div class="counter-one__icon-and-count">
+                                        <div class="counter-one__icon">
+                                            <span class="icon-schedule"></span>
+                                        </div>
+                                        <div class="counter-one__count count-box">
+                                            <h3 class="count-text" data-stop="500" data-speed="1500">00</h3>
+                                            <span>+</span>
+                                        </div>
                                     </div>
-                                    <h3>Delivering successthe <br> through logistics</h3>
+                                    <p class="counter-one__count-text">Happy Customers</p>
                                 </li>
                                 <li>
-                                    <div class="about-one__icon">
-                                        <span class="icon-clock"></span>
+                                    <div class="counter-one__icon-and-count">
+                                        <div class="counter-one__icon">
+                                            <span class="icon-schedule"></span>
+                                        </div>
+                                        <div class="counter-one__count count-box">
+                                            <h3 class="count-text" data-stop="1" data-speed="1500">00</h3>
+                                            <span>k</span>
+                                            <span class="counter-one__count-plus">+</span>
+                                        </div>
                                     </div>
-                                    <h3>Logistics expertise for your<br> competitive </h3>
+                                    <p class="counter-one__count-text">Expert Team Members</p>
                                 </li>
                                 <li>
-                                    <div class="about-one__icon">
-                                        <span class="icon-fragile"></span>
+                                    <div class="counter-one__icon-and-count">
+                                        <div class="counter-one__icon">
+                                            <span class="icon-schedule"></span>
+                                        </div>
+                                        <div class="counter-one__count count-box">
+                                            <h3 class="count-text" data-stop="5" data-speed="1500">00</h3>
+                                            <span>k</span>
+                                            <span class="counter-one__count-plus">+</span>
+                                        </div>
                                     </div>
-                                    <h3>Streamliningm supply chain<br> processes</h3>
+                                    <p class="counter-one__count-text">Positive Client Reviews</p>
                                 </li>
                             </ul>
                         </div>
-                        <div class="about-one__btn-box">
-                            <a href="about.php" class="thm-btn about-one__btn">Read more<span></span></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="about-one__right wow fadeInRight" data-wow-delay="300ms">
-                        <div class="about-one__img-box">
-                            <div class="about-one__img-1">
-                                <img src="assets/images/resources/about-one-img-1.jpg" alt="">
-                            </div>
-                            <div class="about-one__img-2">
-                                <img src="assets/images/resources/about-one-img-2.jpg" alt="">
-                            </div>
-                            <div class="about-one__trusted-box">
-                                <div class="about-one__trust-icon">
-                                    <span class="icon-ionic-ios-people"></span>
-                                </div>
-                                <div class="about-one__trust-content">
-                                    <div class="about-one__trust-count count-box">
-                                        <h3 class="count-text" data-stop="6" data-speed="1500">00</h3>
-                                        <span>k</span>
-                                        <span class="about-one__trust-plus">+</span>
-                                    </div>
-                                    <p class="about-one__trust-text">Trusted Customer</p>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!--About One End-->
+        </section>
+        <!--Counter One End-->
 
-    <!--Counter One Start-->
-    <section class="counter-one">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-5">
-                    <div class="counter-one__left wow slideInLeft" data-wow-delay="100ms"
-                        data-wow-duration="2500ms">
-                        <div class="counter-one__img">
-                            <img src="assets/images/resources/counter-one-img-1.jpg" alt="">
-                            <div class="counter-one__video-link">
-                                <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
-                                    <div class="counter-one__video-icon">
-                                        <span class="icon-play"></span>
-                                        <i class="ripple"></i>
-                                    </div>
-                                </a>
-                            </div>
+        <!--Testimonial One Start-->
+        <section class="testimonial-one">
+            <div class="container">
+                <div class="testimonial-one__inner">
+                    <div class="testimonial-one__img-one">
+                        <img src="assets/images/testimonial/testimonial-one-img-1.jpg" alt="HPCI Testimonials">
+                    </div>
+                    <div class="section-title text-center">
+                        <div class="section-title__tagline-box">
+                            <span class="section-title__tagline">Client Testimonials</span>
                         </div>
+                        <h2 class="section-title__title">What Our Customers Say About <br> Our Herbal Solutions</h2>
                     </div>
-                </div>
-                <div class="col-xl-7">
-                    <div class="counter-one__right wow slideInRight" data-wow-delay="100ms"
-                        data-wow-duration="2500ms">
-                        <div class="section-title text-left">
-                            <div class="section-title__tagline-box">
-                                <span class="section-title__tagline">Our Features</span>
-                            </div>
-                            <h2 class="section-title__title">Simplifying your logistics of <br>the challenges</h2>
-                        </div>
-                        <p class="counter-one__right-text">Logistic service involves the planning, implementation,
-                            and control of the efficient and effective movement and storage of goods and materials.
-                        </p>
-                        <ul class="counter-one__count-list list-unstyled">
-                            <li>
-                                <div class="counter-one__icon-and-count">
-                                    <div class="counter-one__icon">
-                                        <span class="icon-schedule"></span>
-                                    </div>
-                                    <div class="counter-one__count count-box">
-                                        <h3 class="count-text" data-stop="100" data-speed="1500">00</h3>
-                                        <span>+</span>
-                                    </div>
-                                </div>
-                                <p class="counter-one__count-text">Our Happy Customer</p>
-                            </li>
-                            <li>
-                                <div class="counter-one__icon-and-count">
-                                    <div class="counter-one__icon">
-                                        <span class="icon-schedule"></span>
-                                    </div>
-                                    <div class="counter-one__count count-box">
-                                        <h3 class="count-text" data-stop="2" data-speed="1500">00</h3>
-                                        <span>k</span>
-                                        <span class="counter-one__count-plus">+</span>
-                                    </div>
-                                </div>
-                                <p class="counter-one__count-text">Our Team Member</p>
-                            </li>
-                            <li>
-                                <div class="counter-one__icon-and-count">
-                                    <div class="counter-one__icon">
-                                        <span class="icon-schedule"></span>
-                                    </div>
-                                    <div class="counter-one__count count-box">
-                                        <h3 class="count-text" data-stop="3" data-speed="1500">00</h3>
-                                        <span>k</span>
-                                        <span class="counter-one__count-plus">+</span>
-                                    </div>
-                                </div>
-                                <p class="counter-one__count-text">Our Clients Reviews</p>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--Counter One End-->
-
-    <!--Testimonial One Start-->
-    <section class="testimonial-one">
-        <div class="container">
-            <div class="testimonial-one__inner">
-                <div class="testimonial-one__img-one">
-                    <img src="assets/images/testimonial/testimonial-one-img-1.jpg" alt="">
-                </div>
-                <div class="section-title text-center">
-                    <div class="section-title__tagline-box">
-                        <span class="section-title__tagline">clients testimonial</span>
-                    </div>
-                    <h2 class="section-title__title">Your supply chain partner<br> for success</h2>
-                </div>
-                <div class="row">
-                    <div class="col-xl-5"></div>
-                    <div class="col-xl-7 col-lg-9">
-                        <div class="testimonial-one__right">
-                            <div class="thm-swiper__slider swiper-container" data-swiper-options='{
-                                "slidesPerView": 1, 
-                                "spaceBetween": 0,
-                                "speed": 2000,
-                                "loop": true,
-                                "pagination": {
-                                    "el": ".swiper-dot-style1",
-                                    "type": "bullets",
-                                    "clickable": true
-                                },
-            
-                                
-            
-                                "navigation": {
-                                    "nextEl": ".swiper-button-prev1",
-                                    "prevEl": ".swiper-button-next1"
-                                },
-                                "autoplay": { "delay": 9000 },
-                                "breakpoints": {
-                                        "0": {
-                                            "spaceBetween": 0,
-                                            "slidesPerView": 1
-                                        },
-                                        "375": {
-                                            "spaceBetween": 0,
-                                            "slidesPerView": 1
-                                        },
-                                        "575": {
-                                            "spaceBetween": 0,
-                                            "slidesPerView": 1
-                                        },
-                                        "768": {
-                                            "spaceBetween": 30,
-                                            "slidesPerView": 1
-                                        },
-                                        "992": {
-                                            "spaceBetween": 30,
-                                            "slidesPerView": 1
-                                        },
-                                        "1200": {
-                                            "spaceBetween": 30,
-                                            "slidesPerView":1
-                                        },
-                                        "1320": {
-                                            "spaceBetween": 30,
-                                            "slidesPerView":1
+                    <div class="row">
+                        <div class="col-xl-5"></div>
+                        <div class="col-xl-7 col-lg-9">
+                            <div class="testimonial-one__right">
+                                <div class="thm-swiper__slider swiper-container" data-swiper-options='{
+                                    "slidesPerView": 1, 
+                                    "spaceBetween": 0,
+                                    "speed": 2000,
+                                    "loop": true,
+                                    "pagination": {
+                                        "el": ".swiper-dot-style1",
+                                        "type": "bullets",
+                                        "clickable": true
+                                    },
+                                    "navigation": {
+                                        "nextEl": ".swiper-button-prev1",
+                                        "prevEl": ".swiper-button-next1"
+                                    },
+                                    "autoplay": { "delay": 9000 },
+                                    "breakpoints": {
+                                            "0": {
+                                                "spaceBetween": 0,
+                                                "slidesPerView": 1
+                                            },
+                                            "375": {
+                                                "spaceBetween": 0,
+                                                "slidesPerView": 1
+                                            },
+                                            "575": {
+                                                "spaceBetween": 0,
+                                                "slidesPerView": 1
+                                            },
+                                            "768": {
+                                                "spaceBetween": 30,
+                                                "slidesPerView": 1
+                                            },
+                                            "992": {
+                                                "spaceBetween": 30,
+                                                "slidesPerView": 1
+                                            },
+                                            "1200": {
+                                                "spaceBetween": 30,
+                                                "slidesPerView":1
+                                            },
+                                            "1320": {
+                                                "spaceBetween": 30,
+                                                "slidesPerView":1
+                                            }
                                         }
-                                    }
-                            }'>
-                                <div class="swiper-wrapper">
-                                    <!--Testimonial One Single Start-->
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__quote">
-                                                <span class="icon-quote"></span>
+                                }'>
+                                    <div class="swiper-wrapper">
+                                        <!--Testimonial One Single Start-->
+                                        <div class="swiper-slide">
+                                            <div class="testimonial-one__single">
+                                                <div class="testimonial-one__quote">
+                                                    <span class="icon-quote"></span>
+                                                </div>
+                                                <div class="testimonial-one__client-img">
+                                                    <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="Rajan Sharma">
+                                                </div>
+                                                <div class="testimonial-one__ratting">
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star last-star"></span>
+                                                </div>
+                                                <h3 class="testimonial-one__client-name">Rajan Sharma</h3>
+                                                <p class="testimonial-one__client-sub-title">Homeowner, Delhi</p>
+                                                <p class="testimonial-one__text">We had a severe termite problem in our home for years. After trying multiple chemical treatments with no success, HPCI's herbal termite control completely solved our issue. The treatment was odourless, safe for our kids, and the results have lasted over two years now. Highly recommended!</p>
                                             </div>
-                                            <div class="testimonial-one__client-img">
-                                                <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="">
-                                            </div>
-                                            <div class="testimonial-one__ratting">
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star last-star"></span>
-                                            </div>
-                                            <h3 class="testimonial-one__client-name">Nafiz Bhuiyan</h3>
-                                            <p class="testimonial-one__client-sub-title">Manegar</p>
-                                            <p class="testimonial-one__text">Logistic service involves the planning
-                                                implementation an and control of the efficient and effective
-                                                movement and storage of goods and materials Logistic service
-                                                involves the planning implementation and control</p>
                                         </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                    <!--Testimonial One Single Start-->
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__quote">
-                                                <span class="icon-quote"></span>
+                                        <!--Testimonial One Single End-->
+                                        <!--Testimonial One Single Start-->
+                                        <div class="swiper-slide">
+                                            <div class="testimonial-one__single">
+                                                <div class="testimonial-one__quote">
+                                                    <span class="icon-quote"></span>
+                                                </div>
+                                                <div class="testimonial-one__client-img">
+                                                    <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="Priya Nair">
+                                                </div>
+                                                <div class="testimonial-one__ratting">
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star last-star"></span>
+                                                </div>
+                                                <h3 class="testimonial-one__client-name">Priya Nair</h3>
+                                                <p class="testimonial-one__client-sub-title">Organic Farmer, Kerala</p>
+                                                <p class="testimonial-one__text">As an organic farmer, I cannot afford to use chemical pesticides. HPCI's neem-based and botanical pest sprays have protected my crops effectively while keeping my farm certified organic. Their team is knowledgeable and the products are genuinely natural. My yield has improved significantly.</p>
                                             </div>
-                                            <div class="testimonial-one__client-img">
-                                                <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="">
-                                            </div>
-                                            <div class="testimonial-one__ratting">
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star last-star"></span>
-                                            </div>
-                                            <h3 class="testimonial-one__client-name">Robert Son</h3>
-                                            <p class="testimonial-one__client-sub-title">Manegar</p>
-                                            <p class="testimonial-one__text">Logistic service involves the planning
-                                                implementation an and control of the efficient and effective
-                                                movement and storage of goods and materials Logistic service
-                                                involves the planning implementation and control</p>
                                         </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                    <!--Testimonial One Single Start-->
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__quote">
-                                                <span class="icon-quote"></span>
+                                        <!--Testimonial One Single End-->
+                                        <!--Testimonial One Single Start-->
+                                        <div class="swiper-slide">
+                                            <div class="testimonial-one__single">
+                                                <div class="testimonial-one__quote">
+                                                    <span class="icon-quote"></span>
+                                                </div>
+                                                <div class="testimonial-one__client-img">
+                                                    <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="Amit Desai">
+                                                </div>
+                                                <div class="testimonial-one__ratting">
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star last-star"></span>
+                                                </div>
+                                                <h3 class="testimonial-one__client-name">Amit Desai</h3>
+                                                <p class="testimonial-one__client-sub-title">Restaurant Owner, Mumbai</p>
+                                                <p class="testimonial-one__text">Running a food business means we cannot use toxic pest control. HPCI provided a complete herbal cockroach and rodent management plan for our restaurant. Their team was professional, discreet, and the treatment complied with FSSAI standards. Our kitchen has been pest-free for over 18 months!</p>
                                             </div>
-                                            <div class="testimonial-one__client-img">
-                                                <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="">
-                                            </div>
-                                            <div class="testimonial-one__ratting">
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star last-star"></span>
-                                            </div>
-                                            <h3 class="testimonial-one__client-name">Harbert Spin</h3>
-                                            <p class="testimonial-one__client-sub-title">Manegar</p>
-                                            <p class="testimonial-one__text">Logistic service involves the planning
-                                                implementation an and control of the efficient and effective
-                                                movement and storage of goods and materials Logistic service
-                                                involves the planning implementation and control</p>
                                         </div>
-                                    </div>
-                                    <!--Testimonial One Single End-->
-                                    <!--Testimonial One Single Start-->
-                                    <div class="swiper-slide">
-                                        <div class="testimonial-one__single">
-                                            <div class="testimonial-one__quote">
-                                                <span class="icon-quote"></span>
+                                        <!--Testimonial One Single End-->
+                                        <!--Testimonial One Single Start-->
+                                        <div class="swiper-slide">
+                                            <div class="testimonial-one__single">
+                                                <div class="testimonial-one__quote">
+                                                    <span class="icon-quote"></span>
+                                                </div>
+                                                <div class="testimonial-one__client-img">
+                                                    <img src="assets/images/testimonial/testimonial-1-4.jpg" alt="Sunita Reddy">
+                                                </div>
+                                                <div class="testimonial-one__ratting">
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star"></span>
+                                                    <span class="icon-star last-star"></span>
+                                                </div>
+                                                <h3 class="testimonial-one__client-name">Sunita Reddy</h3>
+                                                <p class="testimonial-one__client-sub-title">School Principal, Hyderabad</p>
+                                                <p class="testimonial-one__text">Children's safety is our top priority at school. HPCI conducted a complete mosquito and ant treatment across our campus using only herbal, non-toxic solutions. Parents were thrilled, and the results were outstanding. It is reassuring to know pest control can be both effective and completely safe.</p>
                                             </div>
-                                            <div class="testimonial-one__client-img">
-                                                <img src="assets/images/testimonial/testimonial-1-4.jpg" alt="">
-                                            </div>
-                                            <div class="testimonial-one__ratting">
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star"></span>
-                                                <span class="icon-star last-star"></span>
-                                            </div>
-                                            <h3 class="testimonial-one__client-name">Mainto Vula</h3>
-                                            <p class="testimonial-one__client-sub-title">Manegar</p>
-                                            <p class="testimonial-one__text">Logistic service involves the planning
-                                                implementation an and control of the efficient and effective
-                                                movement and storage of goods and materials Logistic service
-                                                involves the planning implementation and control</p>
                                         </div>
+                                        <!--Testimonial One Single End-->
                                     </div>
-                                    <!--Testimonial One Single End-->
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="testimonial-one__dot-style">
-                    <div class="swiper-dot-style1"></div>
+                    <div class="testimonial-one__dot-style">
+                        <div class="swiper-dot-style1"></div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!--Testimonial One End-->
+        </section>
+        <!--Testimonial One End-->
 
-    <!--Why Are We Start-->
-    <section class="why-are-we">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-4">
-                    <div class="why-are-we__left">
-                        <div class="why-are-we__img">
-                            <img src="assets/images/resources/why-are-we-img-1.jpg" alt="">
+        <!--Why Are We Start-->
+        <section class="why-are-we">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="why-are-we__left">
+                            <div class="why-are-we__img">
+                                <img src="assets/images/resources/why-are-we-img-1.jpg" alt="HPCI Herbal Pest Experts">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-xl-8">
-                    <div class="why-are-we__right">
-                        <div class="section-title text-left">
-                            <div class="section-title__tagline-box">
-                                <span class="section-title__tagline">Why are we best</span>
+                    <div class="col-xl-8">
+                        <div class="why-are-we__right">
+                            <div class="section-title text-left">
+                                <div class="section-title__tagline-box">
+                                    <span class="section-title__tagline">Why We Are The Best</span>
+                                </div>
+                                <h2 class="section-title__title">India's Most Trusted Herbal <br> Pest Control Company</h2>
                             </div>
-                            <h2 class="section-title__title">Efficiency at its best with our<br> logistics services
-                            </h2>
-                        </div>
-                        <ul class="why-are-we__list list-unstyled">
-                            <li>
-                                <div class="why-are-we__icon">
-                                    <span class="icon-arrow-down-left"></span>
+                            <ul class="why-are-we__list list-unstyled">
+                                <li>
+                                    <div class="why-are-we__icon">
+                                        <span class="icon-arrow-down-left"></span>
+                                    </div>
+                                    <div class="icon">
+                                        <span class="icon-location why-are-we__location"></span>
+                                    </div>
+                                    <div class="content">
+                                        <h3>Scientifically Proven Herbal Formulas</h3>
+                                        <p>Our treatments are lab-tested, WHO-compliant, and derived from powerful plant extracts like neem, eucalyptus, pyrethrum, and citronella.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="why-are-we__icon-2">
+                                        <span class="icon-arrow-down-right"></span>
+                                    </div>
+                                    <div class="icon">
+                                        <span class="icon-shopping-cart why-are-we__cart"></span>
+                                    </div>
+                                    <div class="content">
+                                        <h3>Long-Lasting, Guaranteed Results</h3>
+                                        <p>Our herbal treatments offer residual protection for months, with free follow-up visits to ensure your premises remain completely pest-free.</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <span class="icon-call why-are-we__call"></span>
+                                    </div>
+                                    <div class="content">
+                                        <h3>24/7 Expert Support & Consultation</h3>
+                                        <p>Our certified pest control specialists are available around the clock to advise, assist, and schedule treatments at your convenience.</p>
+                                    </div>
+                                </li>
+                            </ul>
+                            <div class="why-are-we__img-2">
+                                <img src="assets/images/resources/why-are-we-img-2.jpg" alt="HPCI Herbal Treatment in Action">
+                                <div class="why-are-we__year wow fadeInLeft" data-wow-delay="300ms">
+                                    <h3>Since 2005</h3>
+                                    <p>For over two decades, Herbal Pest Control India has been safeguarding homes, farms, offices, and communities with the healing power of nature — delivering pest-free environments the safe and sustainable way.</p>
                                 </div>
-                                <div class="icon">
-                                    <span class="icon-location why-are-we__location"></span>
-                                </div>
-                                <div class="content">
-                                    <h3>Real Time tracking</h3>
-                                    <p>Logistic service involves the ntation and control </p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="why-are-we__icon-2">
-                                    <span class="icon-arrow-down-right"></span>
-                                </div>
-                                <div class="icon">
-                                    <span class="icon-shopping-cart why-are-we__cart"></span>
-                                </div>
-                                <div class="content">
-                                    <h3>On time delivary</h3>
-                                    <p>Logistic service involves the ntation and control </p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="icon-call why-are-we__call"></span>
-                                </div>
-                                <div class="content">
-                                    <h3>24/7 online support</h3>
-                                    <p>Logistic service involves the ntation and control </p>
-                                </div>
-                            </li>
-                        </ul>
-                        <div class="why-are-we__img-2">
-                            <img src="assets/images/resources/why-are-we-img-2.jpg" alt="">
-                            <div class="why-are-we__year wow fadeInLeft" data-wow-delay="300ms">
-                                <h3>Since 1920</h3>
-                                <p>Logistic service involves the planning, implementation, and control of the
-                                    efficient and effective movement and storage</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!--Why Are We End-->
+        </section>
+        <!--Why Are We End-->
 
-    <!--CTA One Start-->
-    <section class="cta-one cta-two">
-        <div class="container">
-            <div class="cta-one__inner">
-                <div class="cta-one__bg-img"
-                    style="background-image: url(assets/images/resources/cta-one-bg-img.jpg);"></div>
-                <div class="cta-one__content-box">
-                    <div class="cta-one__icon">
-                        <span class="icon-call"></span>
-                        <div class="cta-one__shape-1">
-                            <img src="assets/images/shapes/cta-one-shape-1.png" alt="">
+        <!--CTA One Start-->
+        <section class="cta-one cta-two">
+            <div class="container">
+                <div class="cta-one__inner">
+                    <div class="cta-one__bg-img"
+                        style="background-image: url(assets/images/resources/cta-one-bg-img.jpg);"></div>
+                    <div class="cta-one__content-box">
+                        <div class="cta-one__icon">
+                            <span class="icon-call"></span>
+                            <div class="cta-one__shape-1">
+                                <img src="assets/images/shapes/cta-one-shape-1.png" alt="">
+                            </div>
                         </div>
-                    </div>
-                    <h3 class="cta-one__title">Need any help?
-                        <br> contact us!</h3>
-                    <div class="cta-one__contact-box">
-                        <div class="icon">
-                            <span class="icon-phone"></span>
-                        </div>
-                        <div class="content">
-                            <p>Need help?</p>
-                            <h3><a href="tel:3075550133">(307) 555-0133</a></h3>
+                        <h3 class="cta-one__title">Need Herbal Pest Control? <br> Call Us Today!</h3>
+                        <div class="cta-one__contact-box">
+                            <div class="icon">
+                                <span class="icon-phone"></span>
+                            </div>
+                            <div class="content">
+                                <p>Free Consultation Available</p>
+                                <h3><a href="tel:3075550133">(307) 555-0133</a></h3>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
+        <!--CTA One End-->
 
         <!-- ============================================
              FOOTER
@@ -518,7 +497,7 @@
     </div><!-- /.page-wrapper -->
     
     <!-- ===========================================
-         VENDOR JS - Loaded at top (as per original)
+         VENDOR JS
     ============================================ -->
     <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>
     <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>

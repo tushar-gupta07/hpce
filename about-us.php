@@ -516,8 +516,8 @@
         <!--Site Footer End-->
 
     </div><!-- /.page-wrapper -->
-    c
-    <!-- ============================================
+    
+    <!-- ===========================================
          VENDOR JS - Loaded at top (as per original)
     ============================================ -->
     <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>

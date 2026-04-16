@@ -8,7 +8,7 @@ define('DB_PASS', '');
 define('DB_NAME', 'rkhospital');
 
 // ─── Site Configuration ───────────────────────────────────────────────────────
-define('SITE_URL',        'http://localhost/rkhospital');
+define('SITE_URL',        'http://localhost/hpce/');
 define('BLOG_IMG_PATH',   'assets/img/blog/');
 define('BLOGS_PER_PAGE',  6);
 define('SERVICES_PER_PAGE', 6);

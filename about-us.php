@@ -42,6 +42,277 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <!--[if lt IE 9]><script src="js/html5shiv.js"></script><![endif]-->
     <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+
+    <!-- responsive -->
+    <style>
+        /* responsive - global overflow fix */
+        body, .page-wrapper {
+            overflow-x: hidden;
+            max-width: 100%;
+        }
+
+        /* responsive - images */
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* =============================================
+           responsive - PAGE HEADER
+        ============================================= */
+        @media (max-width: 767px) {
+            .page-header__inner h2 {
+                font-size: 28px;
+            }
+            .page-header {
+                padding: 60px 0;
+            }
+        }
+
+        /* =============================================
+           responsive - ABOUT ONE SECTION
+        ============================================= */
+        @media (max-width: 1199px) {
+            .about-one__img-1,
+            .about-one__img-2 {
+                max-width: 100%;
+            }
+            .about-one__img-box {
+                margin-top: 40px;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .about-one__left {
+                margin-bottom: 40px;
+            }
+            .about-one__list {
+                flex-wrap: wrap;
+            }
+            .about-one__list li {
+                width: 100%;
+                margin-bottom: 20px;
+            }
+            .about-one__img-box {
+                position: relative;
+            }
+            .about-one__img-2 {
+                margin-top: 15px;
+            }
+            .about-one__trusted-box {
+                position: relative;
+                margin-top: 15px;
+                display: inline-flex;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .about-one__list li {
+                flex-direction: column;
+                text-align: center;
+            }
+            .about-one__list li h3 {
+                font-size: 16px;
+            }
+            .section-title__title {
+                font-size: 26px;
+            }
+            .about-one__trusted-box {
+                left: 0 !important;
+                bottom: 0 !important;
+                width: 100%;
+                justify-content: center;
+            }
+        }
+
+        /* =============================================
+           responsive - COUNTER ONE SECTION
+        ============================================= */
+        @media (max-width: 1199px) {
+            .counter-one__left {
+                margin-bottom: 40px;
+            }
+            .counter-one__img {
+                width: 100%;
+            }
+            .counter-one__img img {
+                width: 100%;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .counter-one__count-list {
+                flex-wrap: wrap;
+            }
+            .counter-one__count-list li {
+                width: 100%;
+                margin-bottom: 20px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .counter-one__right-text {
+                font-size: 15px;
+            }
+            .counter-one__count-list li {
+                flex-direction: column;
+                text-align: center;
+            }
+            .counter-one__icon-and-count {
+                justify-content: center;
+            }
+        }
+
+        /* =============================================
+           responsive - TESTIMONIAL ONE SECTION
+        ============================================= */
+        @media (max-width: 1199px) {
+            .testimonial-one__img-one {
+                display: none;
+            }
+            .testimonial-one__right {
+                padding-left: 0;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .col-xl-5,
+            .col-xl-7 {
+                width: 100%;
+            }
+            .testimonial-one__right {
+                margin-top: 0;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .testimonial-one__text {
+                font-size: 14px;
+            }
+            .testimonial-one__client-name {
+                font-size: 18px;
+            }
+        }
+
+        /* =============================================
+           responsive - WHY ARE WE SECTION
+        ============================================= */
+        @media (max-width: 1199px) {
+            .why-are-we__left {
+                margin-bottom: 40px;
+            }
+            .why-are-we__img {
+                width: 100%;
+            }
+            .why-are-we__img img {
+                width: 100%;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .why-are-we__list li {
+                flex-wrap: wrap;
+            }
+            .why-are-we__img-2 {
+                width: 100%;
+            }
+            .why-are-we__img-2 img {
+                width: 100%;
+            }
+            .why-are-we__year {
+                position: relative;
+                left: 0 !important;
+                bottom: 0 !important;
+                width: 100%;
+                margin-top: 15px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .why-are-we__list li .content h3 {
+                font-size: 16px;
+            }
+            .why-are-we__list li .content p {
+                font-size: 14px;
+            }
+            .why-are-we__year h3 {
+                font-size: 20px;
+            }
+            .why-are-we__year p {
+                font-size: 13px;
+            }
+        }
+
+        /* =============================================
+           responsive - CTA ONE SECTION
+        ============================================= */
+        @media (max-width: 991px) {
+            .cta-one__inner {
+                flex-direction: column;
+                text-align: center;
+            }
+            .cta-one__content-box {
+                padding: 30px 20px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            .cta-one__title {
+                font-size: 22px;
+            }
+            .cta-one__contact-box {
+                justify-content: center;
+            }
+        }
+
+        /* =============================================
+           responsive - GENERAL COLUMN STACKING
+        ============================================= */
+        @media (max-width: 1199px) {
+            .col-xl-6,
+            .col-xl-4,
+            .col-xl-8,
+            .col-xl-5,
+            .col-xl-7 {
+                width: 100%;
+            }
+        }
+
+        /* =============================================
+           responsive - SHAPE ELEMENTS
+        ============================================= */
+        @media (max-width: 767px) {
+            .about-one__shape-1 {
+                display: none;
+            }
+        }
+
+        /* =============================================
+           responsive - BREADCRUMB
+        ============================================= */
+        @media (max-width: 575px) {
+            .thm-breadcrumb {
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .page-header__inner {
+                text-align: center;
+            }
+        }
+
+        /* =============================================
+           responsive - SECTION TITLE
+        ============================================= */
+        @media (max-width: 575px) {
+            .section-title__title {
+                font-size: 22px;
+            }
+            .section-title__title br {
+                display: none;
+            }
+        }
+    </style>
+    <!-- end responsive -->
 </head>
 
 <body>
@@ -512,7 +783,7 @@
     <script src="assets/vendors/wnumb/wNumb.min.js"></script>
     <script src="assets/vendors/wow/wow.js"></script>
     <script src="assets/vendors/isotope/isotope.js"></script>
-    <script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="assets/vendors/owl-carousel/owl.carousel.min.css" />
     <script src="assets/vendors/bootstrap-select/js/bootstrap-select.min.js"></script>
     <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
     <script src="assets/vendors/jquery.circle-type/jquery.circleType.js"></script>

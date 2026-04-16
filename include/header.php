@@ -16,7 +16,7 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="fa fa-envelope"></i>
-                <a href="mailto:info@rkhospital.com">info@rkhospital.com</a>
+                <a href="mailto:info@hpce.com">info@hpce.com</a>
             </li>
             <li>
                 <i class="fa fa-phone-alt"></i>

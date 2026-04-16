@@ -1,5 +1,5 @@
 <?php
-// C:\xampp\htdocs\rkhospital\admin\blog\ajax_blogs.php
+// C:\xampp\htdocs\hpce\admin\blog\ajax_blogs.php
 // Handles AJAX requests for blog search + pagination
 
 require_once './../../include/config.php';
@@ -11,7 +11,7 @@ header('Content-Type: application/json');
 // -------------------------------------------------------
 // Helper: resolve image src path
 // -------------------------------------------------------
-define('BASE_PATH', '/rkhospital/');
+define('BASE_PATH', '/hpce/');
 
 function resolveImageSrc($imageField) {
     if (empty($imageField)) return '';

@@ -1,5 +1,5 @@
 <?php
-// C:\xamppnew\htdocs\rkhospital\admin\services\add.php
+// C:\xamppnew\htdocs\hpce\admin\services\add.php
 
 require_once './../../include/config.php';
 require_once __DIR__ . '/../include/auth.php';
@@ -865,11 +865,11 @@ require_once '../include/head.php';
                                         <div class="mb-3">
                                             <label class="form-label">Canonical URL <span class="text-muted fw-normal text-lowercase">(leave blank for auto)</span></label>
                                             <input type="text" name="canonical_url" class="form-control"
-                                                placeholder="https://rkhospital.com/service/your-slug" value="<?= $p('canonical_url') ?>">
+                                                placeholder="https://hpce.com/service/your-slug" value="<?= $p('canonical_url') ?>">
                                         </div>
                                         <label class="form-label">SERP Preview</label>
                                         <div class="serp-box shadow-sm">
-                                            <div class="serp-url">rkhospital.com › service › <span id="serpSlug">your-slug</span></div>
+                                            <div class="serp-url">hpce.com › service › <span id="serpSlug">your-slug</span></div>
                                             <div class="serp-title serp-ph" id="serpTitle">Meta title will appear here</div>
                                             <div class="serp-desc serp-ph" id="serpDesc">Meta description will appear here</div>
                                         </div>
@@ -909,7 +909,7 @@ require_once '../include/head.php';
                                         <div class="og-card shadow-sm">
                                             <div class="og-img" id="ogImgBox"><span>No image selected</span></div>
                                             <div class="og-body">
-                                                <div class="og-domain">rkhospital.com</div>
+                                                <div class="og-domain">hpce.com</div>
                                                 <div class="og-title" id="ogCardTitle">OG Title will appear here</div>
                                                 <div class="og-desc" id="ogCardDesc">OG description will appear here</div>
                                             </div>

@@ -211,7 +211,7 @@ function _timeAgo(string $dt): string {
 
 <?php
 // ── Role-filtered menu for JS search ─────────────────────────────────────────
-$_base = defined('SITE_URL') ? SITE_URL . '/admin/' : '/rkhospital/admin/';
+$_base = defined('SITE_URL') ? SITE_URL . '/admin/' : '/hpce/admin/';
 $_menuItems = [];
 
 // Dashboard (everyone)

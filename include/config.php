@@ -1,11 +1,11 @@
 <?php
-// C:\xamppnew\htdocs\rkhospital\include\config.php
+// C:\xamppnew\htdocs\hpce\include\config.php
 
 // ─── Database Configuration ───────────────────────────────────────────────────
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'rkhospital');
+define('DB_NAME', 'hpce');
 
 // ─── Site Configuration ───────────────────────────────────────────────────────
 define('SITE_URL',        'http://localhost/hpce/');

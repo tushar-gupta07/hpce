@@ -1,6 +1,6 @@
 Options -Indexes
 RewriteEngine On
-RewriteBase /rkhospital/
+RewriteBase /hpce/
 
 # 1. DOCTOR CLEAN URL  (/doctors/slug)
 RewriteRule ^doctors/([a-zA-Z0-9_-]+)$ single-doctor.php?slug=$1 [L,QSA]

@@ -1,5 +1,5 @@
 <?php
-// C:\xamppnew\htdocs\rkhospital\admin\blog\add.php
+// C:\xamppnew\htdocs\hpce\admin\blog\add.php
 
 require_once './../../include/config.php';
 require_once __DIR__ . '/../include/auth.php';
@@ -479,7 +479,7 @@ require_once '../include/head.php';
                                         <div class="mt-4">
                                             <label class="form-label"><i class="fab fa-google text-muted me-1"></i> Google SERP Preview</label>
                                             <div class="serp-preview">
-                                                <div class="serp-url" id="serpUrl">rkhospital.com › blog › <span id="serpSlug">your-post-slug</span></div>
+                                                <div class="serp-url" id="serpUrl">hpce.com › blog › <span id="serpSlug">your-post-slug</span></div>
                                                 <div class="serp-title" id="serpTitle"><span class="serp-placeholder">Your meta title will appear here...</span></div>
                                                 <div class="serp-date d-inline-block pe-1" id="serpDate"><?= date('M j, Y') ?> — </div>
                                                 <div class="serp-desc d-inline" id="serpDesc"><span class="serp-placeholder">Your meta description will appear here. Make it compelling to improve click-through rate.</span></div>
@@ -836,7 +836,7 @@ document.getElementById("blogTitle").addEventListener("input", function() {
 function autoFillCanonical(slug) {
     var canon = document.getElementById("canonicalUrl");
     if (canon && canon.value === "") {
-        canon.value = window.location.origin + "/rkhospital/blog/" + slug;
+        canon.value = window.location.origin + "/hpce/blog/" + slug;
     }
 }
 

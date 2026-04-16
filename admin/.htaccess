@@ -2,10 +2,10 @@ Options -Indexes
 DirectoryIndex index.php
 
 RewriteEngine On
-RewriteBase /rkhospital/admin/
+RewriteBase /hpce/admin/
 
 # ── 1) Redirect .php URLs → clean URLs (301) ────────────────────────────────
-RewriteCond %{THE_REQUEST} \s(/rkhospital/admin/[^\s?]*)\.php([?\s]|$)
+RewriteCond %{THE_REQUEST} \s(/hpce/admin/[^\s?]*)\.php([?\s]|$)
 RewriteRule ^ %1 [R=301,L,QSA]
 
 # ── 2) Skip real files and directories ──────────────────────────────────────

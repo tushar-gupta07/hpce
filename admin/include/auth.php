@@ -11,7 +11,7 @@ if (session_status() === PHP_SESSION_NONE) {
 
 // ── Guard: must be logged in ──────────────────────────────────────────────────
 if (empty($_SESSION['admin_id'])) {
-    $loginUrl = defined('SITE_URL') ? SITE_URL . '/admin/login.php' : '/rkhospital/admin/login.php';
+    $loginUrl = defined('SITE_URL') ? SITE_URL . '/admin/login.php' : '/hpce/admin/login.php';
     header("Location: $loginUrl");
     exit;
 }
@@ -47,7 +47,7 @@ function canAccess(string $module): bool {
  */
 function requireAccess(string $module): void {
     if (!canAccess($module)) {
-        $base = defined('SITE_URL') ? SITE_URL . '/admin/' : '/rkhospital/admin/';
+        $base = defined('SITE_URL') ? SITE_URL . '/admin/' : '/hpce/admin/';
         header("Location: {$base}index.php?err=noperm");
         exit;
     }

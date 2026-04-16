@@ -1198,7 +1198,7 @@
                                     For any privacy-related concerns, data requests, or complaints, please contact us at:<br>
                                     <strong>Dr. Agrawal's R.K. Hospital</strong> | 27, Central Avenue Road, Nagpur – 440002<br>
                                     <strong>Phone:</strong> +91 97660 57372 &nbsp;|&nbsp; <br>
-                                    <strong>Email:</strong> info@rkhospitalnagpur.com
+                                    <strong>Email:</strong> info@hpcenagpur.com
                                 </div>
                             </div>
                         </div>

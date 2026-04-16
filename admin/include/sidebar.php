@@ -1,6 +1,6 @@
 <?php
 $activePage = isset($activePage) ? $activePage : '';
-$adminBase  = defined('SITE_URL') ? SITE_URL . '/admin/' : '/rkhospital/admin/';
+$adminBase  = defined('SITE_URL') ? SITE_URL . '/admin/' : '/hpce/admin/';
 
 /**
  * Exact match — used on submenu <li> items.

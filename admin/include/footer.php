@@ -1,4 +1,4 @@
-<!-- C:\xamppnew\htdocs\rkhospital\admin\include\footer.php -->
+<!-- C:\xamppnew\htdocs\hpce\admin\include\footer.php -->
 <?php
 
 // Usage: set $extraJS before including this file for page-specific scripts

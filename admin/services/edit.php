@@ -1,5 +1,5 @@
 <?php
-// C:\xamppnew\htdocs\rkhospital\admin\services\edit.php
+// C:\xamppnew\htdocs\hpce\admin\services\edit.php
 
 require_once './../../include/config.php';
 require_once __DIR__ . '/../include/auth.php';
@@ -844,7 +844,7 @@ require_once '../include/head.php';
                                         </div>
                                         <label class="form-label">SERP Preview</label>
                                         <div class="serp-box shadow-sm">
-                                            <div class="serp-url">rkhospital.com › service › <span id="serpSlug"><?= $p('slug') ?></span></div>
+                                            <div class="serp-url">hpce.com › service › <span id="serpSlug"><?= $p('slug') ?></span></div>
                                             <div class="serp-title" id="serpTitle"><?= $p('meta_title') ?: $p('title') ?></div>
                                             <div class="serp-desc" id="serpDesc"><?= $p('meta_description') ?></div>
                                         </div>
@@ -890,7 +890,7 @@ require_once '../include/head.php';
                                                 <?php else: ?><span>No image selected</span><?php endif; ?>
                                             </div>
                                             <div class="og-body">
-                                                <div class="og-domain">rkhospital.com</div>
+                                                <div class="og-domain">hpce.com</div>
                                                 <div class="og-title" id="ogCardTitle"><?= $p('og_title') ?: 'OG Title will appear here' ?></div>
                                                 <div class="og-desc"  id="ogCardDesc"><?= $p('og_description') ?: 'OG description will appear here' ?></div>
                                             </div>

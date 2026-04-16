@@ -1,5 +1,5 @@
 <?php
-// C:\xampp\htdocs\rkhospital\admin\doctors\ajax_doctors.php
+// C:\xampp\htdocs\hpce\admin\doctors\ajax_doctors.php
 require_once './../../include/config.php';
 require_once __DIR__ . '/../include/auth.php';
 header('Content-Type: application/json');

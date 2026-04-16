@@ -1,5 +1,5 @@
 <?php
-// C:\xampp\htdocs\rkhospital\admin\services\index.php
+// C:\xampp\htdocs\hpce\admin\services\index.php
 
 // 1. Database Connection & Logic
 require_once './../../include/config.php';
@@ -55,7 +55,7 @@ $catStatsRes = $conn->query("SELECT COUNT(*) as total_categories FROM categories
 $catStats = $catStatsRes ? $catStatsRes->fetch_assoc() : ['total_categories' => 0];
 
 // -------------------------------------------------------
-define('BASE_PATH', '/rkhospital/');
+define('BASE_PATH', '/hpce/');
 
 function resolveImageSrc($imageField) {
     if (empty($imageField)) return '';
@@ -816,7 +816,7 @@ function openSeoModal(id) {
 
     var metaHtml = "";
     if (d.metaTitle || d.metaDesc) {
-        metaHtml = "<div class=\'card mb-4 border rounded-3 bg-light shadow-none\'><div class=\'card-body p-3\'><div class=\'small text-muted mb-1 font-monospace\' style=\'font-size:0.75rem;\'>rkhospitals.com \u203a service \u203a " + (d.slug || "") + "</div><div class=\'fs-5 fw-medium mb-1\' style=\'color:#1a0dab;max-width:100%;overflow:hidden;text-overflow:ellipsis;\'>" + (d.metaTitle || "<em class=\'text-muted\'>No meta title</em>") + "</div><div class=\'small text-dark\' style=\'line-height:1.4;\'>" + (d.metaDesc || "<em class=\'text-muted\'>No meta description</em>") + "</div></div></div>";
+        metaHtml = "<div class=\'card mb-4 border rounded-3 bg-light shadow-none\'><div class=\'card-body p-3\'><div class=\'small text-muted mb-1 font-monospace\' style=\'font-size:0.75rem;\'>hpces.com \u203a service \u203a " + (d.slug || "") + "</div><div class=\'fs-5 fw-medium mb-1\' style=\'color:#1a0dab;max-width:100%;overflow:hidden;text-overflow:ellipsis;\'>" + (d.metaTitle || "<em class=\'text-muted\'>No meta title</em>") + "</div><div class=\'small text-dark\' style=\'line-height:1.4;\'>" + (d.metaDesc || "<em class=\'text-muted\'>No meta description</em>") + "</div></div></div>";
     }
 
     var tips = [];

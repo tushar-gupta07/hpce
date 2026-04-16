@@ -55,7 +55,7 @@ $statsRes = $conn->query("SELECT
 $stats = $statsRes ? $statsRes->fetch_assoc() : [];
 
 // ── Helpers ───────────────────────────────────────────────────
-define('BASE_PATH', '/rkhospital/');
+define('BASE_PATH', '/hpce/');
 
 function resolveImageSrc($field) {
     if (empty($field)) return '';
@@ -568,7 +568,7 @@ foreach ($doctors as $doc) {
         'slug'           => $doc['slug'] ?? '',
         'specialty'      => $doc['specialty'] ?? '',
         'editUrl'        => 'edit.php?id=' . $doc['id'],
-        'viewUrl'        => '/rkhospital/doctors/' . ($doc['slug'] ?? ''),
+        'viewUrl'        => '/hpce/doctors/' . ($doc['slug'] ?? ''),
     ];
 }
 
@@ -718,7 +718,7 @@ function openSeoModal(id) {
 
     var metaHtml = (d.metaTitle || d.metaDesc)
         ? `<div class="card mb-4 border rounded-3 bg-light shadow-none"><div class="card-body p-3">
-            <div class="small text-muted mb-1 font-monospace" style="font-size:0.75rem;">rkhospital.com › doctors › ${d.slug}</div>
+            <div class="small text-muted mb-1 font-monospace" style="font-size:0.75rem;">hpce.com › doctors › ${d.slug}</div>
             <div class="fs-5 fw-medium mb-1" style="color:#1a0dab;">${d.metaTitle || "<em class=\'text-muted\'>No meta title</em>"}</div>
             <div class="small text-dark" style="line-height:1.4;">${d.metaDesc || "<em class=\'text-muted\'>No meta description</em>"}</div>
            </div></div>` : "";

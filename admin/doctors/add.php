@@ -514,14 +514,14 @@ require_once '../include/head.php';
                                         <div class="mb-4">
                                             <label class="form-label">Canonical URL</label>
                                             <input type="text" name="canonical_url" id="canonicalUrl" class="form-control"
-                                                   placeholder="https://rkhospital.com/doctors/dr-john-smith"
+                                                   placeholder="https://hpce.com/doctors/dr-john-smith"
                                                    value="<?= $p('canonical_url') ?>">
                                         </div>
                                         <!-- SERP Preview -->
                                         <div class="mt-4">
                                             <label class="form-label"><i class="fab fa-google text-muted me-1"></i> Google SERP Preview</label>
                                             <div class="serp-preview">
-                                                <div class="serp-url">rkhospital.com › doctors › <span id="serpSlug">doctor-slug</span></div>
+                                                <div class="serp-url">hpce.com › doctors › <span id="serpSlug">doctor-slug</span></div>
                                                 <div class="serp-title" id="serpTitle"><span class="serp-placeholder">Your meta title will appear here...</span></div>
                                                 <div class="serp-desc" id="serpDesc"><span class="serp-placeholder">Your meta description will appear here. Make it compelling to improve click-through rate.</span></div>
                                             </div>
